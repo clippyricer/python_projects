@@ -1,5 +1,5 @@
 # This is a quiz game :D
-
+```
 
 # Modules
 import time
@@ -51,3 +51,4 @@ question()
 question()
 question()
 question()
+```
